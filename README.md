@@ -3,20 +3,11 @@
 [![GitHub Badge](https://img.shields.io/github/followers/ZitongLu1996?style=for-the-badge)](https://github.com/ZitongLu1996)
 [![CV Badge](https://img.shields.io/badge/My-CV-brightgreen?style=for-the-badge)](https://zitonglu1996.github.io/CV_ZitongLu.pdf)
 [![Website Badge](https://img.shields.io/badge/My-Website-brightgreen?style=for-the-badge)](https://zitonglu1996.github.io)
+[![email1 Bage](https://img.shields.io/badge/zitonglu1996@gmail.com-Red?style=for-the-badge)](https://zitonglu1996@gmail.com)
+[![email2 Bage](https://img.shields.io/badge/zitonglu@outlook.com-Red?style=for-the-badge)](https://zitonglu@outlook.com)
 ---
 <!--
 **ZitongLu1996/ZitongLu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### I'm Zitong Lu :cn: !
 
@@ -26,7 +17,7 @@ Here are some ideas to get you started:
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https:/zitonglu1996.github.io/NeuroRA/) - A Python toolbox of representational analysis from multimode neural data
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
 - :smiley::bulb: Research Interests: Visual working memory, Attention, Decision Making, Machine Learning & Deep Learning.
-- :dizzy_face::telescope:Future goals: :one: How brain encoding memory (especially basic visual features) and making decision. :two: Explore the connections between biological vision & memory and AI models. :three: Using neuroscience methhods to improve cognitive ability.
+- :dizzy_face::telescope: Future goals: :one: How brain encoding memory (especially basic visual features) and making decision. :two: Explore the connections between biological vision & memory and AI models. :three: Using neuroscience methhods to improve cognitive ability.
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
