@@ -27,4 +27,6 @@
 - Python, MATLAB, C, C++, Java, Julia
 - [![EEGLAB Badge](https://img.shields.io/badge/EEGLAB-purple?style=for-the-badge)](https://sccn.ucsd.edu/eeglab/index.php) [![MNE Badge](https://img.shields.io/badge/MNE-purple?style=for-the-badge)](https://mne.tools/stable/index.html) [![SPM Badge](https://img.shields.io/badge/SPM-purple?style=for-the-badge)](https://www.fil.ion.ucl.ac.uk/spm/) [![NiBabel Badge](https://img.shields.io/badge/NiBabel-purple?style=for-the-badge)](https://nipy.org/nibabel) [![Nilearn Badge](https://img.shields.io/badge/Nilearn-purple?style=for-the-badge)](http://nilearn.github.io) [![NeuroRA Badge](https://img.shields.io/badge/NeuroRA-purple?style=for-the-badge)](https://github.com/ZitongLu1996/NeuroRA) [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-purple?style=for-the-badge)](https://tensorflow.google.cn) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge)](https://pytorch.org)
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=NeuroRA&theme=dracula)](https://github.com/ZitongLu1996/NeuroRA)
