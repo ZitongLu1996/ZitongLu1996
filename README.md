@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I'm now a master student in cognitive neuroscience from East China Normal University (Shanghai, China). Before that, I received a BEng degree in software engineering from Northeastern University (Shenyang, China).
+- 😄 I'm now a master student in cognitive neuroscience from East China Normal University (Shanghai, China).
+     Before that, I received a BEng degree in software engineering from Northeastern University (Shenyang, China).
 - 🔭 I’m currently working on visual working memory by using EEG, fMRI and computational models.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&show_icons=true)
