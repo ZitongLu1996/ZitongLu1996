@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Zitong Lu !
+### I'm Zitong Lu :cn: !
 
-- 😄 I'm now a master student in cognitive neuroscience from East China Normal University (Shanghai, China).
+- :wink::mortar_board: I'm now a master student in cognitive neuroscience from East China Normal University (Shanghai, China).
      Before that, I received a BEng degree in software engineering from Northeastern University (Shenyang, China).
-- 🔭 I’m currently working on visual working memory by using EEG, fMRI and computational models.
-- 🌱 I’m the author of [NeuroRA](https:/zitonglu1996.github.io/NeuroRA/) - A Python toolbox of representational analysis from multimode neural data
-- 💬 If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
-- ⚡ Research Interests: Visual working memory, Attention, Decision Making, Machine Learning & Deep Learning.
+- :eyes::key: I’m currently working on visual working memory by using EEG, fMRI and computational models.
+- :sweat_smile::high_brightness: I’m the author of [NeuroRA](https:/zitonglu1996.github.io/NeuroRA/) - A Python toolbox of representational analysis from multimode neural data
+- :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
+- :smiley::bulb: Research Interests: Visual working memory, Attention, Decision Making, Machine Learning & Deep Learning.
+- :dizzy_face::telescope:Future goals: :one: How brain encoding memory (especially basic visual features) and making decision. :two: Explore the connections between biological vision & memory and AI models. :three: Using neuroscience methhods to improve cognitive ability.
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
