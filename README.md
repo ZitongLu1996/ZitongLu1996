@@ -30,9 +30,10 @@
 ### Notes - Finding a cooperator!
 - Are you interesting in implementing a Toolbox for neuroscientists and psychologists?
 - PyCTRSA will be a simple but helpful Python toolkit for cross-temporal RSA-based decoding for EEG and MEG data.
+- This work would be affilliated with [Neurora](https:/zitonglu1996.github.io/NeuroRA/), but it is a independent part.
 - If you are familiar with PyPlot or any other Python Plotting package and interested in writing documents with me, you can contact me!
-- Hope we can work together and finish this simple project in 1-2 month and maybe we can write an article to submit the journal of open source software (JOSS) at the end!
-- If you are interested in this, please email me with your CV and we can discuss the prossibilities!
+- The algorithms in PyCTRSA would be realized by me in several weeks. Hope we can work together and finish this simple project in 1-2 month and maybe we can write an article to submit the journal of open source software (JOSS) at the end!
+- If you are interested in this, please email me ([zitonglu1996@gmail.com](zitonglu1996@gmail.com)) with your CV and we can discuss the prossibilities!
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical
