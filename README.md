@@ -32,7 +32,7 @@
 - PyCTRSA will be a simple but helpful Python toolkit for cross-temporal RSA-based decoding for EEG and MEG data.
 - If you are familar with PyPlot or any other Python Plotting package and interested in writing documents with me, you can contact me!
 - Hope we can work together and finish this simple project in 1-2 month and maybe we can write an article to submit the journal of open source software (JOSS) at the end!
-- If you are interested in this, email me with your CV and we can discuss the prossibilities!
+- If you are interested in this, please email me with your CV and we can discuss the prossibilities!
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical
