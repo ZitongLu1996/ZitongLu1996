@@ -27,9 +27,14 @@
 ### Languages and Tools
 - Python, MATLAB, C, C++, Java, Julia
 - [![EEGLAB Badge](https://img.shields.io/badge/EEGLAB-purple?style=for-the-badge)](https://sccn.ucsd.edu/eeglab/index.php) [![MNE Badge](https://img.shields.io/badge/MNE-purple?style=for-the-badge)](https://mne.tools/stable/index.html) [![SPM Badge](https://img.shields.io/badge/SPM-purple?style=for-the-badge)](https://www.fil.ion.ucl.ac.uk/spm/) [![NiBabel Badge](https://img.shields.io/badge/NiBabel-purple?style=for-the-badge)](https://nipy.org/nibabel) [![Nilearn Badge](https://img.shields.io/badge/Nilearn-purple?style=for-the-badge)](http://nilearn.github.io) [![NeuroRA Badge](https://img.shields.io/badge/NeuroRA-purple?style=for-the-badge)](https://github.com/ZitongLu1996/NeuroRA) [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-purple?style=for-the-badge)](https://tensorflow.google.cn) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge)](https://pytorch.org)
+### Notes - Finding a cooperator!
+- Are you interesting in implementing a Toolbox for neuroscientists and psychologists?
+- PyCTRSA will be a simple but helpful Python toolkit for cross-temporal RSA-based decoding for EEG and MEG data.
+- If you are familar with Matplotlib or other Python Plotting package and interested in writing documents with me, you can contact me!
+- Hope we can work together and finish this simple project in 1-2 month and maybe we can write an article to submit the journal of open source software (JOSS) at the end!
+- If you are interested in this, email me with your CV and we can discuss the prossibilities!
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=NeuroRA&theme=dracula)](https://github.com/ZitongLu1996/NeuroRA)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=Python_EEG_Decoding&theme=dracula)](https://github.com/ZitongLu1996/Python_EEG_Decoding)
