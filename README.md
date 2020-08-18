@@ -40,4 +40,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=NeuroRA&theme=dracula)](https://github.com/ZitongLu1996/NeuroRA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=Python_EEG_Decoding&theme=dracula)](https://github.com/ZitongLu1996/Python_EEG_Decoding)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=PCTRSA&theme=dracula)](https://github.com/ZitongLu1996/PyCTRSA)
