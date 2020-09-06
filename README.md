@@ -16,7 +16,7 @@
 - :eyes::key: I’m currently working on visual working memory by using EEG, fMRI and computational models.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) - A Python toolbox of representational analysis from multimode neural data.
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
-- :smiley::bulb: Research Interests: Visual working memory, Mental Imagery, Perception, Attention, Decision Making, Machine Learning & Deep Learning.
+- :smiley::bulb: Research Interests: Visual working memory, Mental imagery, Perception, Attention, Decision making, Machine Learning & Deep Learning.
 - :dizzy_face::telescope: Future goals: :one: Explore how brain encodes visual information (basic visual features, objects, facial expressions/identities) in perception, memory, imagery and making decision. :two: Explore the connections between biological behavior, vision & memory and AI models. :three: Using neuroscience methhods to improve cognitive ability.
 ---
 ### Typical Open-source Projects
