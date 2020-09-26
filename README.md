@@ -14,10 +14,10 @@
 - :wink::mortar_board: I'm now a master student in cognitive neuroscience from East China Normal University (Shanghai, China).
      Before that, I received a BEng degree in software engineering from Northeastern University (Shenyang, China).
 - :eyes::key: I’m currently working on visual working memory by using EEG, fMRI and computational models.
-- :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) - A Python toolbox of representational analysis from multimode neural data.
+- :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
 - :smiley::bulb: Research Interests: Visual working memory, Mental imagery, Perception, Attention, Decision making, Machine Learning & Deep Learning.
-- :dizzy_face::telescope: Future goals: :one: Explore how brain encodes visual information (basic visual features, objects, facial expressions/identities) in perception, memory, imagery and making decision. :two: Explore the connections between biological behavior, vision & memory and AI models. :three: Using neuroscience methhods to improve cognitive ability.
+- :dizzy_face::telescope: Future goals: :one: Explore how brain encodes visual information (basic visual features, objects, facial expressions/identities) in visual perception, visual memory, mental imagery and making decision. :two: Explore the similar or different representations and connections between biological brain and AI models. :three: How emotion and reward influences different cognitive processes and how our brain represents emotion and reward. :four: Using neuroscience methhods to improve cognitive ability.
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
