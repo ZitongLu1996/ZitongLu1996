@@ -13,7 +13,7 @@
 
 - :wink::mortar_board: I'm now a third-year master candidate in cognitive neuroscience from East China Normal University (Shanghai, China). Also, I'm a member of [Memory and Emotion Lab](https://sysumelab.com) leaded by Prof. Yixuan Ku in Sun Yat-sen University (Guangzhou, China) and a research assistant in Peng Cheng Laboratory (Shenzhen, China).
      Before that, I received a BEng degree in software engineering from Northeastern University (Shenyang, China).
-- :eyes::key: I’m currently working on visual working memory by using EEG, fMRI and computational models.
+- :eyes::key: I’m currently working on visual perception and visual working memory by using EEG, fMRI and computational models.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
 - :smiley::bulb: Research Interests: Visual working memory, Mental imagery, Object/Face Perception, Attention, Emotion, Machine Learning & Deep Learning.
