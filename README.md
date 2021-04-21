@@ -11,8 +11,10 @@
 -->
 ### I'm Zitong Lu :cn: !
 
-- :wink::mortar_board: **I will be joining Ohio State University as a PhD student in cognitive neuroscience program and [Vision & Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) led by Julie Golomb since 2021 fall!**
-     I'm now a third-year master candidate in **cognitive neuroscience** from **East China Normal University** (Shanghai, China). Also, I'm a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Prof. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
+- :wink::mortar_board: **I will be joining Ohio State University as a PhD student in cognitive neuroscience program and [Vision & Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) led by Dr. Julie Golomb since 2021 fall!**
+
+     I'm now a third-year master candidate in **cognitive neuroscience** from **East China Normal University** (Shanghai, China). Also, I'm a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
+     
      Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China).
 - :eyes::key: I’m currently working on visual perception and visual working memory by using EEG, fMRI and computational models.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
