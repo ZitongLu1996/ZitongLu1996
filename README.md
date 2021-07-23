@@ -24,7 +24,7 @@
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
-- **[EEG Decoding on Python](https://github.com/ZitongLu1996/Python_EEG_Decoding)**: EEG Decoding Demo based on Python (including Classification-based decoding and Similarity-based decoding)
+- **[Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)**: A Chinese handbook for EEG data analysis based on Python
 - **[PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA)**: A Python toolbox for Cross-Temporal Representation Similarity Analysis on EEG/MEG data
 ---
 ### Languages and Tools
@@ -43,4 +43,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=NeuroRA&theme=dracula)](https://github.com/ZitongLu1996/NeuroRA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=PyCTRSA&theme=dracula)](https://github.com/ZitongLu1996/PyCTRSA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZitongLu1996&repo=Python-EEG-Handbook&theme=dracula)](https://github.com/ZitongLu1996/Python-EEG-Handbook)
