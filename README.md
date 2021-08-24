@@ -11,7 +11,7 @@
 -->
 ### I'm Zitong Lu :cn: !
 
-- :wink::mortar_board: **I will be joining Ohio State University as a PhD student in cognitive neuroscience program and [Vision & Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) led by Dr. Julie Golomb since 2021 fall!**
+- :wink::mortar_board: **I am a first-year PhD student work with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) at The Ohio State University in cognitive neuroscience program.**
 
      I just graduated with a master degree of science (major in **cognitive neuroscience**) from **East China Normal University** (Shanghai, China). Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
      
