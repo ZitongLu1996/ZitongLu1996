@@ -11,16 +11,16 @@
 -->
 ### I'm Zitong Lu :cn: !
 
-- :wink::mortar_board: **I am a first-year PhD student working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in cognitive neuroscience program at The Ohio State University.**
+- :wink::mortar_board: **I am a first-year PhD student in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.**
 
-     I just graduated with a master degree of science (major in **cognitive neuroscience**) from **East China Normal University** (Shanghai, China). Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
+     I just graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China). Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
      
      Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China).
-- :eyes::key: I’m currently working on visual perception and visual working memory by using EEG, fMRI and computational models.
+- :eyes::key: I’m currently working on visual perception and visual working memory by using behavior, EEG, fMRI and computational models.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
-- :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@outlook.com](zitonglu@outlook.com)
-- :smiley::bulb: Research Interests: Visual working memory, Mental imagery, Object/Face Perception, Attention, Emotion, Machine Learning & Deep Learning.
-- :dizzy_face::telescope: Future goals: :one: Explore how brain encodes visual information (basic visual features, objects, facial expressions/identities) in visual perception, visual memory and mental imagery. :two: Explore the similar or different representations and connections between biological brain and AI models. :three: How emotion and reward influences different cognitive processes and how our brain represents emotion and reward. :four: Using neuroscience methhods to improve cognitive ability.
+- :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [lu.2637@osu.edu](lu.2637@osu.edu)
+- :smiley::bulb: Research Interests: Object/Face Perception, Visual working memory, Mental imagery, Attention, Emotion, Machine Learning & Deep Learning.
+- :dizzy_face::telescope: Future goals: :one: Explore how brain encodes visual information (basic visual features, locations, objects, facial expressions/identities) in visual perception, visual memory and mental imagery. :two: Explore the similar or different representations and connections between biological brain and AI models. :three: How emotion and reward influences different cognitive processes and how our brain represents emotion and reward. :four: Using neuroscience methhods to improve cognitive ability.
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
@@ -30,15 +30,7 @@
 ### Languages and Tools
 - Python, MATLAB, C, C++, Java, Julia
 - [![EEGLAB Badge](https://img.shields.io/badge/EEGLAB-purple?style=for-the-badge)](https://sccn.ucsd.edu/eeglab/index.php) [![MNE Badge](https://img.shields.io/badge/MNE-purple?style=for-the-badge)](https://mne.tools/stable/index.html) [![SPM Badge](https://img.shields.io/badge/SPM-purple?style=for-the-badge)](https://www.fil.ion.ucl.ac.uk/spm/) [![NiBabel Badge](https://img.shields.io/badge/NiBabel-purple?style=for-the-badge)](https://nipy.org/nibabel) [![Nilearn Badge](https://img.shields.io/badge/Nilearn-purple?style=for-the-badge)](http://nilearn.github.io) [![NeuroRA Badge](https://img.shields.io/badge/NeuroRA-purple?style=for-the-badge)](https://github.com/ZitongLu1996/NeuroRA) [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-purple?style=for-the-badge)](https://tensorflow.google.cn) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge)](https://pytorch.org)
-<!--d
-### Notes - Finding a cooperator!
-- Are you interesting in implementing a Toolbox for neuroscientists and psychologists?
-- PyCTRSA will be a simple but helpful Python toolkit for cross-temporal RSA-based decoding for EEG and MEG data.
-- This work would be affilliated with [NeuroRA](https:/zitonglu1996.github.io/NeuroRA/), but it is an independent part.
-- If you are familiar with PyPlot or any other Python Plotting package and interested in writing documents with me, you can contact me!
-- The algorithms in PyCTRSA would be realized by me in several weeks. Hope we can work together and finish this simple project in 1-2 month(s) and maybe we can write an article to submit the journal of open source software (JOSS) at the end!
-- If you are interested in this, please email me ([zitonglu1996@gmail.com](zitonglu1996@gmail.com)) with your CV and we can discuss the prossibilities!
--->
+
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical)
