@@ -27,7 +27,6 @@
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
 - **[Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)**: A Chinese handbook for EEG data analysis based on Python
-- **[PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA)**: A Python toolbox for Cross-Temporal Representation Similarity Analysis on EEG/MEG data
 ---
 ### Languages and Tools
 - Python, MATLAB, C, C++, Java, Julia
