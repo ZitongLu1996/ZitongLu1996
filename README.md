@@ -13,9 +13,9 @@
 
 - :wink::mortar_board: **I am a second-year PhD student in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.** Also, I am the **OSU EEGlab manager**！
 
-     I just graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China). Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
+     I graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China) in 2021. Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
      
-     Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China).
+     Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China) in 2018.
 - :eyes::key: I’m currently working on visual perception, especially visual stability and 3D perception, by using behavior, EEG, fMRI and computational models.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :yum:::notebook_with_decorative_cover: I'm also the author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook).
