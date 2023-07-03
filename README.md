@@ -20,9 +20,10 @@
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :yum:::notebook_with_decorative_cover: I'm also the author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook).
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [lu.2637@osu.edu](lu.2637@osu.edu)
-- :smiley::bulb: Research Interests: Object/Face Perception, Visual Stability, 3D perception, Brain Decoding.
-- :wink::ghost: Current Focused Topics: :one: Visual stability and object-location binding - How to trigger spatiotopic representations and spatiotopic object-location binding in behavior? How do our brains integrate object locations from retinotopic coordinates to spatiotopic coordinates? What's the neural mechanism of object-location binding? :two: Depth & 3D perception - How our brains represent depth information of the object in a image? & How do our brain process depth information of the object in the real world and 3D integration in space (using fMRI) and time (using EEG)? :three: Brain encoding model - Using Deep Learning methods to construct the encoder from visual inputs to neural signals and inter-individual neural converters.
-- :dizzy_face::telescope: Future Goals: :one: Explore how brain encodes visual information (basic visual features, locations, objects, facial expressions/identities) in visual perception, visual memory and mental imagery. :two: Make models to simulate how how brains encode visual information, and to better decode the information our brains encode from brain activity.
+- :smiley::bulb: Research Interests: To understand how we process object information in the complex and dynamics world using behavioral, EEG, fMRI and computational approaches and building more brain-like artificial neural networks.
+- :wink::ghost: Focused Topics: :one: Neural and behavioral mechanisms of visual perception:
+(A) Object-location binding; (B) Depth and 3D perception; (C) Visual and semantic representations; (D) Generally spatial representation. :two: Higher-level representations in human brains and artificial neural networks:
+(A) Representational alignment between human brains and artificial neural networks; (B) Brain encoding models; (C) Inter-individual neural converters; (D) Reverse engineering to interpret neural mechanisms.
 ---
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
