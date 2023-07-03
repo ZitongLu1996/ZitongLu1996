@@ -13,7 +13,7 @@
 
 - :wink::mortar_board: **I am a second-year PhD student in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.** Also, I am the **OSU EEGlab manager**！
 
-     I got a graduate Minor degree in **Statistics** in 2023 and a MSci degree in **Psychology** in 2022 from **The Ohio State University**. And I graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China) in 2021. Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
+     I got a graduate Minor degree in **statistics** in 2023 and a MSci degree in **psychology** in 2022 from **The Ohio State University**. And I graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China) in 2021. Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China).
      
      Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China) in 2018.
 - :eyes::key: I’m currently working on visual perception, especially visual stability and 3D perception, by using behavior, EEG, fMRI and computational models.
