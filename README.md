@@ -11,7 +11,7 @@
 -->
 ### I'm Zitong Lu :cn: !
 
-- :wink::mortar_board: **I am a second-year PhD student in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.** Also, I am the **OSU EEGlab manager**！
+- :wink::mortar_board: **I am a third-year PhD student in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.** Also, I am the **OSU EEGlab manager**！
 
      I got a graduate Minor degree in **statistics** in 2023 and a MSci degree in **psychology** in 2022 from **The Ohio State University**. And I graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China) in 2021. Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China). Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China) in 2018.
   
@@ -27,10 +27,11 @@
 ### Typical Open-source Projects
 - **[NeuroRA](https://github.com/ZitongLu1996/NeuroRA)**: A Python toolbox of representational analysis from multimode neural data
 - **[Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)**: A Chinese handbook for EEG data analysis based on Python
+- **[EEG2EEG](https://github.com/ZitongLu1996/EEG2EEG)**: A high-performance inter-individual EEG converter
 ---
 ### Languages and Tools
 - Python, MATLAB, C, C++, Java, Julia
-- [![EEGLAB Badge](https://img.shields.io/badge/EEGLAB-purple?style=for-the-badge)](https://sccn.ucsd.edu/eeglab/index.php) [![MNE Badge](https://img.shields.io/badge/MNE-purple?style=for-the-badge)](https://mne.tools/stable/index.html) [![SPM Badge](https://img.shields.io/badge/SPM-purple?style=for-the-badge)](https://www.fil.ion.ucl.ac.uk/spm/) [![NiBabel Badge](https://img.shields.io/badge/NiBabel-purple?style=for-the-badge)](https://nipy.org/nibabel) [![Nilearn Badge](https://img.shields.io/badge/Nilearn-purple?style=for-the-badge)](http://nilearn.github.io) [![NeuroRA Badge](https://img.shields.io/badge/NeuroRA-purple?style=for-the-badge)](https://github.com/ZitongLu1996/NeuroRA) [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-purple?style=for-the-badge)](https://tensorflow.google.cn) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge)](https://pytorch.org)
+- [![EEGLAB Badge](https://img.shields.io/badge/EEGLAB-purple?style=for-the-badge)](https://sccn.ucsd.edu/eeglab/index.php) [![MNE Badge](https://img.shields.io/badge/MNE-purple?style=for-the-badge)](https://mne.tools/stable/index.html) [![SPM Badge](https://img.shields.io/badge/SPM-purple?style=for-the-badge)](https://www.fil.ion.ucl.ac.uk/spm/) [![NiBabel Badge](https://img.shields.io/badge/NiBabel-purple?style=for-the-badge)](https://nipy.org/nibabel) [![Nilearn Badge](https://img.shields.io/badge/Nilearn-purple?style=for-the-badge)](http://nilearn.github.io) [![NeuroRA Badge](https://img.shields.io/badge/NeuroRA-purple?style=for-the-badge)](https://github.com/ZitongLu1996/NeuroRA) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge)](https://pytorch.org)
 
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
