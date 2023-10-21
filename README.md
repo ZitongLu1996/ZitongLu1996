@@ -19,7 +19,7 @@
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :yum:::notebook_with_decorative_cover: I'm also the author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook).
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [lu.2637@osu.edu](lu.2637@osu.edu)
-- :smiley::bulb: Research Interests: To understand how we process object information in the complex and dynamics world using behavioral, EEG, fMRI and computational approaches and building more brain-like artificial neural networks.
+- :smiley::bulb: Research Interests: To understand how we process object information in the complex and dynamics world using behavioral, EEG, fMRI and computational approaches and building more brain-like artificial vision models.
 - :wink::ghost: Focused Topics: :one: Neural and behavioral mechanisms of visual perception:
 (A) Object-location binding; (B) Depth and 3D perception; (C) Visual and semantic representations; (D) Generally spatial representation. :two: Higher-level representations in human brains and artificial neural networks:
 (A) Representational alignment between human brains and artificial neural networks; (B) Brain encoding models; (C) Inter-individual neural converters; (D) Reverse engineering to interpret neural mechanisms.
