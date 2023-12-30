@@ -15,7 +15,7 @@
 
      I got a graduate Minor degree in **statistics** in 2023 and a MSci degree in **psychology** in 2022 from **The Ohio State University**. And I graduated with a MSci degree in **cognitive neuroscience** from **East China Normal University** (Shanghai, China) in 2021. Also, I was a member of [**Memory and Emotion Lab**](https://sysumelab.com) led by **Dr. Yixuan Ku** in **Sun Yat-sen University** (Guangzhou, China) and a research assistant in **Peng Cheng National Laboratory** (Shenzhen, China). Before that, I received a BEng degree in **software engineering** from **Northeastern University** (Shenyang, China) in 2018.
   
-- :eyes::key: Visual Perception, Cognitive Computational Neuroscience, Visual Encoding, Representational Alignment.
+- :eyes::key: Visual Perception, Cognitive Computational Neuroscience, NeuroAI.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :yum:::notebook_with_decorative_cover: I'm also the author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook-CN).
 - :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [lu.2637@osu.edu](lu.2637@osu.edu)
