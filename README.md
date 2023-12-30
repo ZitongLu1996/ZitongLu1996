@@ -10,7 +10,7 @@
 **ZitongLu1996/ZitongLu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### I'm Zitong Lu from :cn: now in :us: !
-#### To be a experimental psychologist, a cognitive neuroscientist, a computer scientist.
+#### To be an experimental psychologist, a cognitive neuroscientist, a computer scientist.
 
 - :wink::mortar_board: **I am a third-year PhD candidate in cognitive neuroscience working with Dr. [Julie Golomb](https://u.osu.edu/golomblab/) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University.** Also, I am the **OSU EEGlab manager**！
 
