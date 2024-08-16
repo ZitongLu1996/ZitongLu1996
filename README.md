@@ -40,4 +40,6 @@
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZitongLu1996&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZitongLu1996&hide=javascript,html&theme=radical)
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZitongLu1996&repo=NeuroRA&theme=dracula)](https://github.com/ZitongLu1996/NeuroRA)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZitongLu1996&repo=Reviews_Reading_Group&theme=dracula)](https://github.com/ZitongLu1996/Reviews_Reading_Group)
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZitongLu1996&repo=Python-EEG-Handbook&theme=dracula)](https://github.com/ZitongLu1996/Python-EEG-Handbook)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZitongLu1996&repo=Python-EEG-Handbook-CN&theme=dracula)](https://github.com/ZitongLu1996/Python-EEG-Handbook-CN)
