@@ -21,7 +21,7 @@
 - :eyes::key: Visual Perception, Cognitive Computational Neuroscience, NeuroAI.
 - :sweat_smile::high_brightness: I’m the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/) and [PyCTRSA](https://github.com/ZitongLu1996/PyCTRSA) - Two Python toolboxes for representational analysis.
 - :yum:::notebook_with_decorative_cover: I'm also the author of [the Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook).
-- :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [lu.2637@osu.edu](lu.2637@osu.edu)
+- :e-mail::mailbox_with_mail: If you have any question about my projects, you can email me: [zitonglu1996@gmail.com](zitonglu1996@gmail.com) / [zitonglu@mit.edu](zitonglu@mit.edu)
 - :smiley::bulb: Research Interests: To understand how we process visual and semantic information in the complex and dynamics world using behavioral, EEG, fMRI and computational approaches and building more brain-like artificial vision models.
 - :wink::ghost: Focused Topics:
 - :one: Neural and behavioral mechanisms of visual perception:
